@@ -1,0 +1,27 @@
+# interactive notebook
+jupyterlab
+
+# langchain family
+langchain
+langgraph
+langchain_experimental
+langchainhub
+langchain
+langchain-nomic
+langchain-text-splitters
+
+# vectorstore
+qdrant-client
+chromadb
+docarray
+
+# pdf parsing
+pymupdf
+
+# utils
+ollama
+llama-index
+python-dotenv
+tiktoken
+tavily-python
+gpt4all

@@ -17,6 +17,17 @@ docarray
 
 # pdf parsing
 pymupdf
+PyMuPDF
+
+# markdown parsing
+unstructured
+Markdown
+
+# html parsing
+selenium
+
+# excel parsing
+openpyxl
 
 # utils
 ollama

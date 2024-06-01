@@ -36,3 +36,6 @@ python-dotenv
 tiktoken
 tavily-python
 gpt4all
+
+# tools
+yfinance
